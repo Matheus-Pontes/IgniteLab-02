@@ -1,5 +1,6 @@
 # IgniteLab-02
 - Plataforma de eventos com intuito d transmitir vídeos de forma organizada.
+- Rodar projeto: `npm run dev`
 
 ## Projeto
 

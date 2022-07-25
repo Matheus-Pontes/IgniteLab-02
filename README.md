@@ -1,8 +1,10 @@
 # IgniteLab-02
-- Plataforma de eventos com intuito d transmitir vídeos de forma organizada.
-- Rodar projeto: `npm run dev`
+- Plataforma de eventos com o intuito de transmitir vídeos de forma organizada.
+- [Acessar projeto](https://ignite-lab-02-rose.vercel.app/)
+- Após clonar
+  - Rodar projeto: `npm run dev`
 
-## Projeto
+## Layout
 
 - Tela de Cadastro
   - ![image](https://user-images.githubusercontent.com/62751571/177222299-688ee8df-1c97-475f-a390-c170b31ffdca.png)

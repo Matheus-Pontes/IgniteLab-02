@@ -1,8 +1,7 @@
-# IgniteLab-02
-- Plataforma de eventos com o intuito de transmitir vídeos de forma organizada.
+<h1 align='center'>IgniteLab 02</h1>
+
 - [Acessar projeto](https://ignite-lab-02-rose.vercel.app/)
-- Após clonar
-  - Rodar projeto: `npm run dev`
+- Plataforma de eventos com o intuito de transmitir vídeos de forma organizada.
 
 ## Layout
 
@@ -21,20 +20,18 @@
   - Menu lateral fechado
     - ![image](https://user-images.githubusercontent.com/62751571/177222541-768fbd92-e7ce-4397-9eed-e790ad2eeab1.png)
 
+## Para rodar local
+- Clonar
+  - ``` git clone [url do projeto] ```
+- Instalar dependências
+  - ``` npm install ```
+- Rodar projeto: 
+  - ```npm run dev```
+
 ## Tecnologias
 - ReactJS + Vite
-  - criar projeto: `npm create vite@latest`
-  - Rotas no react: `npm i react-router-dom`
-  - lib de icones: `npm i phosphor-react `
-  - Para fazer o player
-    - VimeJS
-        - Para versão react < 18: `npm i @vime/core @vime/react`
-        - Para versão reacte ≥ 18: `npm i @vime/core @vime/react —force`
+- VimeJS       
 - TailwindCSS
-  - `npm i tailwindcss postcss autoprefixer -D`
-  - `npx tailwindcss init -p` (arquivo de configuração do tailwindcss)
 - TypeScript
 - GraphQL
 - Apollo
-  - `npm i @apollo/client`
-  
